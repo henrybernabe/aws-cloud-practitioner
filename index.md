@@ -32,6 +32,7 @@ Example questions
 * Explain how the AWS cloud allows users to focus on business value
   * Shifting technical resources to revenue-generating activities as opposed to managing
 infrastructure
+
 1.2 Identify aspects of AWS Cloud economics
 * Define items that would be part of a Total Cost of Ownership proposal
   * Understand the role of operational expenses (OpEx)
@@ -43,6 +44,7 @@ infrastructure
   * Benefits of automation
   * Reduce compliance scope (for example, reporting)
   * Managed services (for example, RDS, ECS, EKS, DynamoDB)
+
 1.3 Explain the different cloud architecture design principles
 * Explain the design principles
   * Design for failure
